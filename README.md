@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Kabeer Jaffri 👋
 
-- 👷 I'm a Senior Associate Consultant at Kabeers Network
+- 👷 I'm a Senior Web Developer at Kabeers Network
 - 💻 Currently working on Spring boot at professional work
 - 🧟 I do experiment `web`, `hybrid mobile` and `cross platform desktop` application
 - 💬 Ask me about anything on `Javascript`, `typescript`, `node`, `react`, `deno`, `C#`, `PHP`, `bash`.
