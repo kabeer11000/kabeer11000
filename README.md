@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 -->
 
 
-### Hi there, I'm Kabeer Jaffri 👋
+### Hi, I'm Kabeer 👋
+CEO - Kabeers Network
 
-- 👷 I'm a Senior Web Developer at Kabeers Network
-- 💻 Currently working on Spring boot at professional work
-- 🧟 I do experiment `web`, `hybrid mobile` and `cross platform desktop` application
-- 💬 Ask me about anything on `Javascript`, `typescript`, `node`, `react`, `deno`, `C#`, `PHP`, `bash`.
-- 📫 How to reach me: [@kabeerjaffri_](https://twitter.com/kabeerjaffri_) | [@kabeer11000](mailto:kabeer11000@gmail.com)
-- 😄 Pronouns: He/him
+<h6>I build <a href="https://kabeersnetwork">websites and apps</a>, write <a href="https://developers.kabeersnetwork.tk">articles</a>, research <a href="https://research.kabeersnetwork.tk">ai</a>, provide <a href="https://theotherdev.kabeersnetwork.tk/contact/redirect.html">advice</a> and sell <a href="https://kabeersnetwork.tk/store">digital products</a>.<br>I have 4 years of tech experience, creating products, content and solutons while providing IT services.<br>Do you have a project or need a solution? Then ↴<br><a href="https://theotherdev.kabeersnetwork.tk/contact/redirect.html">Contact me to get in touch now!</a></h6>
+
+- 💬 Ask me about anything on `Typescript`, `node`, `react`, `deno`, `Python`, `PHP`, `bash`.
+- 📫 How to reach me: [@ChesticleHunter](https://twitter.com/@ChesticleHunter) | [@kabeer](mailto:kabeer@kabeersnetwork.tk)
+- 😄 Pronouns: He/him They/Them
 
 **Languages and Tools:**  
 
