@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 ### Hi, I'm Kabeer 👋
 <h6>CEO - Kabeers Network</h6>
 
-<h6>I build <a href="https://kabeersnetwork">websites and apps</a>, write <a href="https://developers.kabeersnetwork.tk">articles</a>, research <a href="https://research.kabeersnetwork.tk">ai</a>, provide <a href="https://theotherdev.kabeersnetwork.tk/contact/redirect.html">advice</a> and sell <a href="https://kabeersnetwork.tk/store">digital products</a>.<br>I have 4 years of tech experience, creating products, content and solutons while providing IT services.<br>Do you have a project or need a solution? Then ↴<br><a href="https://theotherdev.kabeersnetwork.tk/contact/redirect.html">Contact me to get in touch now!</a></h6>
+<h6>I build <a href="https://kabeers.network">websites and apps</a>, write <a href="https://developers.kabeers.network">articles</a>, research <a href="https://research.kabeers.network">ai</a>, provide <a href="https://theotherdev.kabeers.network/contact/redirect.html">advice</a> and sell <a href="https://kabeers.network/store">digital products</a>.<br>I have 4 years of tech experience, creating products, content and solutons while providing IT services.<br>Do you have a project or need a solution? Then ↴<br><a href="https://theotherdev.kabeers.network/contact/redirect.html">Contact me to get in touch now!</a></h6>
 
 - 💬 Ask me about anything on `Typescript`, `node`, `react`, `deno`, `Python`, `PHP`, `bash`.
-- 📫 How to reach me: [@ChesticleHunter](https://twitter.com/@ChesticleHunter) | [kabeer@kabeersnetwork.tk](mailto:kabeer@kabeersnetwork.tk)
+- 📫 How to reach me: [@ChesticleHunter](https://twitter.com/@ChesticleHunter) | [kabeer@kabeers.network](mailto:kabeer@kabeersnetwork.tk)
 - 😄 Pronouns: He/him They/Them
 
 **Recently played music** <!--- Level 2 Heading to align contents -->
