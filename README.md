@@ -26,6 +26,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [@ChesticleHunter](https://twitter.com/@ChesticleHunter) | [kabeer@kabeersnetwork.tk](mailto:kabeer@kabeersnetwork.tk)
 - 😄 Pronouns: He/him They/Them
 
+**Recently played music** <!--- Level 2 Heading to align contents -->
+
+<p align="left"> <!--- P tag to align contents -->
+  <a href="https://open.spotify.com/user/xrp7hcyaryampqu4ws430jkpc" align="center"> <!--- Spotify currently playing and last played with link to Spotify Account --> 
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=xrp7hcyaryampqu4ws430jkpc&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false" align="center" alt="Spotify Now playing and recently played" title= "Click on the link and check out the URL">
+  </a><!--- Spotify currently playing and last played with link to Spotify Account -->
+</p>
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"></code>
