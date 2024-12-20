@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 ### Hi, I'm Kabeer 👋
-<h6>Founder of <a href="https://otherdev.com">@TheOtherDev</a> & CEO - Kabeer's Network</h6>
+<h6>Founder of <a href="https://otherdev.com">@TheOtherDev</a> & CEO at <a href="https://kabeers.network">Kabeer's Network</a></h6>
 
 <h6>I build <a href="https://kabeers.network">websites and apps</a>, write <a href="https://research.kabeers.network">articles</a>, research AI, and help brands with <a href="https://othedev.com/">technology, design and branding</a>. With 8 years of tech experience, I create solutions, content, and products while offering IT services.<br>Have a project? <a href="mailto:kabeer@otherdev.com">Contact me!</a></h6>
 
