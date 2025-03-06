@@ -18,35 +18,12 @@ Here are some ideas to get you started:
 
 
 ### Hi, I'm Kabeer 👋
-<h6>Founder of <a href="https://otherdev.com">@TheOtherDev</a> & CEO at <a href="https://kabeers.network">Kabeer's Network</a></h6>
-
-<h6>I build <a href="https://kabeers.network">websites and apps</a>, write <a href="https://research.kabeers.network">articles</a>, research AI, and help brands with <a href="https://othedev.com/">technology, design and branding</a>. With 8 years of tech experience, I create solutions, content, and products while offering IT services.<br>Have a project? <a href="mailto:kabeer@otherdev.com">Contact me!</a></h6>
+<h6>I build <a href="https://kabeers.network">FOSS websites and apps</a>, write <a href="https://research.kabeers.network">articles</a>, <a href="https://www.researchgate.net/profile/Kabeer-Jaffri-2">research</a> and help brands with <a href="https://othedev.com/">technology, design and branding</a>. With 8 years of tech experience, I create solutions, content, and products while offering IT services.<br>Have a project? <a href="mailto:kabeer@otherdev.com">Contact me!</a></h6>
 
 
-
+> “An idiot admires complexity, a genius admires simplicity, a physicist tries to make it simple, for an idiot anything the more complicated it is the more he will admire it, if you make something so clusterfucked he can't understand it he's gonna think you're a god cause you made it so complicated nobody can understand it. That's how they write journals in Academics, they try to make it so complicated people think you're a genius” - Terry Davis
 
 
 
-
-- 💬 Ask me about anything on `Typescript`, `node`, `react`, `deno`, `Python`, `PHP`, `bash`.
 - 📫 How to reach me: [@MrPixelPirate](https://twitter.com/@MrPixelPirate) | [kabeer@otherdev.com](mailto:kabeer@otherdev.com)
 - 😄 Pronouns: He/him
-
-**Recently played music** <!--- Level 2 Heading to align contents -->
-
-<p align="left"> <!--- P tag to align contents -->
-  <a href="https://open.spotify.com/user/xrp7hcyaryampqu4ws430jkpc" align="center"> <!--- Spotify currently playing and last played with link to Spotify Account --> 
-    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=xrp7hcyaryampqu4ws430jkpc&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" align="center" alt="Spotify Now playing and recently played" title= "Click on the link and check out the URL">
-  </a><!--- Spotify currently playing and last played with link to Spotify Account -->
-</p>
-
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://avatars1.githubusercontent.com/u/42048915?s=200&v=4"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-
